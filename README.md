@@ -1,1 +1,1 @@
-### This is a Sample README TO TEST Git
+### This is a sample README to test GitHub
